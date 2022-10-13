@@ -10,4 +10,7 @@ URL do projeto: https://sheilans.github.io/ignite-lab-desing-system/
 - React.js
 - Tailwind
 
+![formulário de login](./login-form.png)<br>
+![paleta de cores](./colors.png)<br>
+![componentes](./components.png)
 
