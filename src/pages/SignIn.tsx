@@ -28,7 +28,7 @@ export function SignIn() {
     </header>
 
     <form onSubmit={ handleSignIn } className='flex flex-col gap-4 items-stretch w-full max-w-[400px] mt-10'>
-      { isUserSignedIn && <Text>Login realixado!</Text> }
+      { isUserSignedIn && <Text>Login realizado!</Text> }
     <label htmlFor="email" className='flex flex-col gap-3'>
       <Text  className='font-semibold'>Endereço de e-mail</Text>
       <TextInput.Root>
