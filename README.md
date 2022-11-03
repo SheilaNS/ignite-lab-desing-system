@@ -5,6 +5,8 @@ Ministrado pelo [Diego Fernandes](https://github.com/diego3g), CTO da Rocketseat
 Nele eu aprendi como montar uma página de login do [Figma](https://www.figma.com/) ao [React](https://pt-br.reactjs.org/) criando um Desing System do zero.<br><br>
 URL do [Desing System](https://sheilans.github.io/ignite-lab-desing-system/)<br>
 URL do [Figma](https://www.figma.com/file/je7augTtKlPglySRnSAxwr/Ignite-Lab-Desing-System?node-id=0%3A1)<br>
+URL do [projeto](https://ignite-lab-desing-system-sepia.vercel.app/)<br>
+<br>
 
 ## Stacks utilizadas
 - TypeScript
